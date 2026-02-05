@@ -10,14 +10,14 @@ flax>=0.7.0
 optax>=0.1.7
 
 # Graph Neural Networks
-torch-geometric>=2.3.0
-torch-scatter
-torch-sparse
-torch-cluster
-torch-spline-conv
+# torch-geometric>=2.3.0
+# torch-scatter
+# torch-sparse
+# torch-cluster
+# torch-spline-conv
 
 # Equivariant NNs (for geometric deep learning tutorials)
-escnn
+# escnn
 
 # Scientific computing
 numpy>=1.24.0
